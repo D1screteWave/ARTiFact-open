@@ -33,7 +33,6 @@ ARTiFact 致力于构建由 AI Agent 驱动的安卓逆向与运行时追踪工�
 - **事实可验证**：保留证据来源与分析依据，支持独立复核。
 
 ## 运行截图
-<img width="1700" height="1216" alt="image" src="https://github.com/user-attachments/assets/6dfa97d5-2324-4bc7-b2c5-a0d99b3811bc" />
+<img width="1700" height="1216" alt="image" src="https://github.com/user-attachments/assets/b171f523-b238-4839-b5b3-8a1ffb2e258f" />
+<img width="1910" height="1113" alt="image" src="https://github.com/user-attachments/assets/9e434515-b731-40c8-9b80-d424e3d0b740" />
 
-
-<img width="1910" height="1113" alt="image" src="https://github.com/user-attachments/assets/6f70d50d-a05f-48a9-af57-c0e69bce792f" />
