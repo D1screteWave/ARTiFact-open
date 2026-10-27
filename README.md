@@ -3,7 +3,7 @@
 **ARTiFact — Android Reverse & Trace Intelligence for Verifiable Facts.**
 
 >
-> **从运行时，到可验证的事实。**
+> **从追踪运行时，到可验证的事实。**
 
 ARTiFact 致力于构建由 AI Agent 驱动的安卓逆向与运行时追踪工作台，连接多种成熟分析工具，基于跨层分析引擎，实现代码、运行轨迹与网络行为的多维关联分析，让分析过程可追溯，让结论有据可查。
 
